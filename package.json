@@ -1,0 +1,14 @@
+{
+  "name": "cypress-github-actions",
+  "version": "1.0.0",
+  "description": "Repository dedicated to storing CI (Continuous Integration) configurations for automated Cypress tests using GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucasfeva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
